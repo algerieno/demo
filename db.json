@@ -19,7 +19,14 @@
 }
 ],
 "owner": {},
-"participants": [],
+"participants": [
+	{
+		"first_name":"hondor"
+	},
+	{
+		"first_name":"color"
+	}
+],
 "note": [],
 "comment": []
 },

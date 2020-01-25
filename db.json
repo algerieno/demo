@@ -37,7 +37,18 @@
 "country": "Algérie",
 "photo": [],
 "owner": {},
-"participants": [],
+"participants": [
+  {
+    "first_name" : "drago"
+  },
+  {
+        "first_name" : "combo"
+  },
+  {
+        "first_name" : "Laos"
+  },
+  
+],
 "note": [
 {
 "id_note": 1,
